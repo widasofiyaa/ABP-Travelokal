@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:lets_head_out/utils/Buttons.dart';
-import 'package:lets_head_out/utils/TextStyles.dart';
-import 'package:lets_head_out/utils/consts.dart';
-import 'package:lets_head_out/utils/navigation.dart';
+import 'package:travelokals/utils/Buttons.dart';
+import 'package:travelokals/utils/TextStyles.dart';
+import 'package:travelokals/utils/consts.dart';
+import 'package:travelokals/utils/navigation.dart';
 
 import '../SignInPage.dart';
 import 'Slider.dart';

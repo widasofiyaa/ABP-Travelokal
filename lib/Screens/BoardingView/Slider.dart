@@ -1,6 +1,6 @@
 
 import 'package:flutter/cupertino.dart';
-import 'package:lets_head_out/utils/consts.dart';
+import 'package:travelokals/utils/consts.dart';
 
 class Slider {
   final String sliderImageUrl;

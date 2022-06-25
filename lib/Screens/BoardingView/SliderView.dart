@@ -1,10 +1,10 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:lets_head_out/Screens/BoardingView/sliderDots.dart';
-import 'package:lets_head_out/Screens/BoardingView/sliderItems.dart';
-import 'package:lets_head_out/utils/TextStyles.dart';
-import 'package:lets_head_out/utils/consts.dart';
+import 'package:travelokals/Screens/BoardingView/sliderDots.dart';
+import 'package:travelokals/Screens/BoardingView/sliderItems.dart';
+import 'package:travelokals/utils/TextStyles.dart';
+import 'package:travelokals/utils/consts.dart';
 
 import 'Slider.dart';
 

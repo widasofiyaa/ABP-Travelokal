@@ -1,12 +1,12 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:lets_head_out/Screens/DashBoard.dart';
-import 'package:lets_head_out/Screens/RegistrationScreen.dart';
-import 'package:lets_head_out/utils/Buttons.dart';
-import 'package:lets_head_out/utils/TextStyles.dart';
-import 'package:lets_head_out/utils/consts.dart';
-import 'package:lets_head_out/utils/forms.dart';
+import 'package:travelokals/Screens/DashBoard.dart';
+import 'package:travelokals/Screens/RegistrationScreen.dart';
+import 'package:travelokals/utils/Buttons.dart';
+import 'package:travelokals/utils/TextStyles.dart';
+import 'package:travelokals/utils/consts.dart';
+import 'package:travelokals/utils/forms.dart';
 
 import 'Home.dart';
 

@@ -1,13 +1,13 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:travelokals/font_awesome_flutter.dart';
-import 'package:lets_head_out/utils/BestRatedImage.dart';
-import 'package:lets_head_out/utils/Buttons.dart';
-import 'package:lets_head_out/utils/CitiesImage.dart';
-import 'package:lets_head_out/utils/RecommendationImage.dart';
-import 'package:lets_head_out/utils/TextStyles.dart';
-import 'package:lets_head_out/utils/consts.dart';
-import 'package:lets_head_out/utils/imageContainer.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:travelokals/utils/BestRatedImage.dart';
+import 'package:travelokals/utils/Buttons.dart';
+import 'package:travelokals/utils/CitiesImage.dart';
+import 'package:travelokals/utils/RecommendationImage.dart';
+import 'package:travelokals/utils/TextStyles.dart';
+import 'package:travelokals/utils/consts.dart';
+import 'package:travelokals/utils/imageContainer.dart';
 
 import 'OverViewScreen.dart';
 
