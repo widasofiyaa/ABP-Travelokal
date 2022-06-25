@@ -4,12 +4,12 @@ Travelokal adalah sebuah aplikasi berbasis mobile yang  berisi informasi pariwis
 
 Aplikasi Travelokal di bangun menggunakan Flutter dengan bahasa pemrograman dart. Fitur yang ada pada aplikasi yaitu login, registrasi, menampilkan data pariwisata, membooking, history pemesanan, dan profile. Saat pengguna membuka aplikasi maka pengguna akan melewati flow dari aplikasi yaitu menampilkan splash screen, login atau registrasi, dashboard, melihat profile, memilih pariwisata, membooking, melihat history booking, dan mendapat notifikasi.
 
-##Tujuan
+## Tujuan
 Pengadaan aplikasi memiliki tujuan sebagai berikut:
 Mempopulerkan kearifan lokal dan potensi Kabupaten Cianjur melalui pengembangan website sebagai media promosi.
 Memberikan informasi mengenai potensi wisata di Cianjur yang masih banyak belum diketahui oleh masyarakat umum.
 
-##Fitur
+## Fitur
 Autentikasi pengguna
 Mencari pariwisata
 Melihat lokasi
@@ -18,18 +18,18 @@ Profile
 History booking
 Notifikasi
 
-##Teknologi yang digunakan
+## Teknologi yang digunakan
 Android studio
 Dart
 Database
 API
 
-##Cara menjalankan Aplikasi
+## Cara menjalankan Aplikasi
 Buka project di android studio
 Buka file pubspec.yml
 Lakukan pub get
 Jalankan emulator
 Jalankan main.dart.
 
-##Isi perubahan atau tambahan file dari project
+## Isi perubahan atau tambahan file dari project
 Tidak ada
